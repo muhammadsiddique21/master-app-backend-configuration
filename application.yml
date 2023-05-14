@@ -1,3 +1,5 @@
+custom.name: Sony
+
 eureka:
   instance:
     prefer-ip-address: true
