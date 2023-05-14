@@ -1,1 +1,8 @@
+custom.profile: Prof
 
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    service-url:
+      defaultZone: http://localhost:6071/eureka
