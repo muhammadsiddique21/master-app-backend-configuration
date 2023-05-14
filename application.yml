@@ -1,4 +1,4 @@
-custom.name: Sony
+custom.profile: Local
 
 eureka:
   instance:
