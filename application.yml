@@ -7,7 +7,7 @@ eureka:
     register-with-eureka: true
     service-url:
       # defaultZone: http://localhost:6071/eureka
-      defaultZone=http://service-registory:6071/eureka/
+      defaultZone: http://service-registory:6071/eureka/
 jwt:
   secret-key: asd2323asd845@#
   token-expire-milliseconds: 2592000000 # 30 days
