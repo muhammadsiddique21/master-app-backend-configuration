@@ -1,5 +1,6 @@
 custom.profile: Prof
-
+service:
+  test: LOL
 eureka:
   instance:
     prefer-ip-address: true
