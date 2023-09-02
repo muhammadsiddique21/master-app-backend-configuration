@@ -2,6 +2,11 @@ service:
   test: Hi
 custom.profile: Local
 
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+
 eureka:
   instance:
     prefer-ip-address: true
