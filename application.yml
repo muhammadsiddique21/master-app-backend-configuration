@@ -5,7 +5,7 @@ custom.profile: Local
 spring:
   jpa:
     hibernate:
-      ddl-auto: update
+      ddl-auto: create
 
 eureka:
   instance:
