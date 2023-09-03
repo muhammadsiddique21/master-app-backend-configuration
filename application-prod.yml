@@ -1,7 +1,10 @@
 custom.profile: Prof
 service:
   test: LOL
-
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
 eureka:
   instance:
     prefer-ip-address: true
