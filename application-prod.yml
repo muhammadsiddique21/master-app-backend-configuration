@@ -16,3 +16,6 @@ eureka:
 jwt:
   secret-key: asd2323asd845@#
   token-expire-milliseconds: 2592000000 # 30 days
+
+application:
+  is-test=mode: false
