@@ -22,4 +22,4 @@ jwt:
 
 application:
   is-test=mode: true
-  property-code: default
+  property-code: server-default
